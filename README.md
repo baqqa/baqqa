@@ -12,19 +12,23 @@ Between servers, APIs, and small side projects, he builds systems that just keep
 
 ---
 
-### 🧠 main project — **Aldebaran**
+### 🧠 main project — [**Aldebaran**](https://github.com/baqqa/Aldebaran)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baqqa&repo=Aldebaran&theme=transparent&hide_border=true" alt="Aldebaran repo card" />
+  <img src="https://raw.githubusercontent.com/baqqa/Aldebaran/main/.github/banner.png" alt="Aldebaran Banner" width="80%">
 </p>
 
-**Aldebaran** is a multilingual Discord bot written in **Python**,  
+<p align="center"><i>“Music, structure, and a bit of attitude.”</i></p>
+
+**Aldebaran** is a multilingual Discord bot written in  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" height=20/>,
+          
 focused on music, modularity, and a clean UX.
 
 🧩 Features  
-- YouTube + Spotify playback  
-- Interactive buttons (no slash command spam)  
-- Full Italian localization  
-- Built for uptime — not hype  
+- 🎧 YouTube + Spotify playback  
+- 🔘 Interactive button controls (no slash command spam)  
+- 🌐 Full Italian localization  
+- 💤 Built for uptime — not hype  
 
 > “Aldebaran doesn’t rush. He waits for the beat to drop.”
 
@@ -33,13 +37,19 @@ focused on music, modularity, and a clean UX.
 ### ☕ what else happens here
 - 🖥️ self-hosting everything on **Proxmox** (because control > convenience)  
 - 🧩 building **Express APIs** and **React frontends** for fun and structure  
-- 🧠 experimenting with local AI (Elizabeth)  
+- 🧠 experimenting with local AI  
 - 🛠️ automating small things that humans shouldn’t repeat  
 
 ---
 
 ### ⚙️ stack of choice
-`Python` · `Express` · `React` · `Docker` · `Proxmox`  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Proxmox/Debian" />
+</p>
 
 ---
 
