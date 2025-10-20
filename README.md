@@ -14,12 +14,11 @@ Between servers, APIs, and small side projects, he builds systems that just keep
 > “Fast is fragile. Slow is stable.”
 
 ---
-
-### 🧠 main project — [**Aldebaran**](https://github.com/baqqa/Aldebaran)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baqqa/Aldebaran/refs/heads/main/banner.png" alt="Aldebaran Banner" width="80%">
+<img src="https://raw.githubusercontent.com/baqqa/Aldebaran/refs/heads/main/aldebaran%20logo.png"alt="Logo" height=150 />
 </p>
+
+ ### main project — [**Aldebaran**](https://github.com/baqqa/Aldebaran)
 
 <p align="center"><i>“Music, structure, and a bit of attitude.”</i></p>
 
@@ -32,6 +31,10 @@ focused on music, modularity, and a clean UX.
 - 🔘 Interactive button controls (no slash command spam)  
 - 🌐 Full Italian localization  
 - 💤 Built for uptime — not hype  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baqqa/Aldebaran/refs/heads/main/banner.png" alt="Aldebaran Banner" width="80%">
+</p>
 
 > “Aldebaran doesn’t rush. He waits for the beat to drop.”
 
