@@ -15,7 +15,7 @@ Between servers, APIs, and small side projects, he builds systems that just keep
 ### 🧠 main project — [**Aldebaran**](https://github.com/baqqa/Aldebaran)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baqqa/Aldebaran/main/.github/banner.png" alt="Aldebaran Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/baqqa/Aldebaran/refs/heads/main/banner.png" alt="Aldebaran Banner" width="80%">
 </p>
 
 <p align="center"><i>“Music, structure, and a bit of attitude.”</i></p>
