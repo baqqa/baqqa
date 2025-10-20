@@ -1,6 +1,9 @@
 <h1 align="center">🦥 baqqa</h1>
-<p align="center"><i>the sloth who writes code (eventually)</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baqqa/baqqa/refs/heads/main/bradidev.png" width="100%">
+</p>
 
+<p align="center"><i>the sloth who writes code (eventually)</i></p>
 ---
 
 ### 🌳 who is baqqa
