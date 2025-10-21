@@ -40,6 +40,19 @@ focused on music, modularity, and a clean UX.
 
 ---
 
+### 🧠 AI & Tools
+
+**Severin: MTG Scryfall Toolset (MCP)**
+
+A small, asynchronous tool service designed to expose **Magic: The Gathering (MTG)** card and set lookups to LLMs via the **Model Control Protocol (MCP)**. It's the stable link between an AI agent and the entire Scryfall database.
+
+- **Tech Stack:** Python, `mcp`, `httpx`, Scryfall API
+- **Repository:** [https://github.com/baqqa/Severin](https://github.com/baqqa/Severin)
+
+
+> "The oracle text is clear, but the mana must flow patiently."
+---
+
 ### ☕ what else happens here
 - 🖥️ self-hosting everything on **Proxmox** (because control > convenience)  
 - 🧩 building **Express APIs** and **React frontends** for fun and structure  
