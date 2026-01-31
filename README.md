@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alberto 🦥</h1>
 <p align="center">
-  <b>Product Engineer | Full-Stack Architect | AI & MCP Early Adopter</b><br>
+  <b>Full-Stack Devolperr</b><br>
   <i>Focusing on stable, scalable systems and intuitive product experiences.</i>
 </p>
 
@@ -12,7 +12,7 @@
 ---
 
 ### 🌳 About Me
-I am a **Full-Stack Developer** with over 10 years of experience in the tech industry. I specialize in building robust multi-tenant platforms and bridging the gap between legacy infrastructure and modern AI-driven tooling.
+I am a **Full-Stack Developer**. I specialize in building robust multi-tenant platforms and bridging the gap between legacy infrastructure and modern AI-driven tooling.
 
 My philosophy: **"Stability over Hype."** I build systems designed for uptime, maintainability, and real-world performance.
 
