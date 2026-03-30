@@ -16,10 +16,8 @@ I bridge the gap between complex legacy systems and modern AI-driven architectur
 
 ### Featured Projects
 
-#### [Severin: MTG Scryfall Toolset (MCP)](https://github.com/baqqa/severin)
-*An asynchronous service exposing the Scryfall database to LLMs via the **Model Context Protocol**.*
-* **Impact:** Enables AI agents (Claude/OpenAI) to perform complex, real-time lookups on MTG data with high precision.
-* **Tech:** Python, `mcp` SDK, `httpx`, Asynchronous Programming.
+#### [Legacy Lens: DB interpreter (MCP)](https://github.com/baqqa/LegacyLens)
+*An MCP server that lets AI assistants in Cursor and other hosts inspect legacy SQL databases safely. It answers questions about structure and sample data: schemas, tables, columns, foreign keys, and a small number of sample rows per request (default 5, maximum 10). It is meant for understanding old systems before you change them—not for arbitrary read/write SQL from the model.*
 
 #### [Aldebaran: Advanced Discord Engine](https://github.com/baqqa/aldebaran)
 *A professional-grade, event-driven Discord bot focused on modularity and clean UX.*
