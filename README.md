@@ -1,6 +1,6 @@
 # Hi, I'm Alberto
 
-**Mid-Level Full-Stack Engineer | Native English & Italian** *Specializing in Next.js, Cloud-Native Infrastructure, and AI Interoperability.*
+**Senior Full-Stack Engineer** *Specializing in Next.js, Cloud-Native Infrastructure, and AI Interoperability.*
 
 ---
 
